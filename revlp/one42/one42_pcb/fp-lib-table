@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name kicad-keyboard-parts)(type KiCad)(uri ${KIPRJMOD}/kicad-keyboard-parts.pretty)(options "")(descr "")(disabled))
+  (lib (name custom-parts)(type KiCad)(uri ${KIPRJMOD}/custom-parts.pretty)(options "")(descr "")(disabled))
+  (lib (name switches)(type KiCad)(uri ${KIPRJMOD}/keyboard_parts/switches.pretty)(options "")(descr "")(disabled))
+)
